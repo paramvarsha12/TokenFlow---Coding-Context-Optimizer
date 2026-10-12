@@ -1,4 +1,4 @@
-﻿# QuotaPilot
+﻿# TokenFlow
 
 **A local-first AI coding context optimizer for large codebases.**
 
