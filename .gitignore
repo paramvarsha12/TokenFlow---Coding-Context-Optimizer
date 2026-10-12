@@ -1,0 +1,32 @@
+﻿# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+dist/
+build/
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated application output
+.next/
+node_modules/
+coverage/
+.cache/
+
+# Generated QuotaPilot output
+context-brief-test.txt
+privacy-task.md
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
